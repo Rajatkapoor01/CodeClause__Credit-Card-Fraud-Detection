@@ -1,20 +1,21 @@
-Bank card fraud detection using machine learning<br>
+**Bank card fraud detection using machine learning<br>**
 A web application for analyzing bank transactions and detecting fraud.
-Main functions:
+**Main functions:**
 data set preparation,
 use of machine learning algorithms,
 report with graphs, tables and transaction analysis,
 comparison of the operation and accuracy of the three algorithms,
 manual transaction verification.
 <br>
-Technologies used
+<br>
+**Technologies used**
 Python v3+
 Pandas, numpy, matplotlib, seaborn, sklearn
 Streamlit
 Dataset
 The project uses a free set of data from free access, which includes a collection of credit card transactions, both legitimate and fraudulent. The data set serves as the basis for training and evaluating the fraud detection model. We took the data set from the website kaggle.com. This site is an online resource and community for data science, machine learning and data research specialists.
 <br>
-How to run
+**How to run**
 Download project
 
 Open in code editor
@@ -35,7 +36,7 @@ streamlit run main.py
 
 <br>
 
-How to use "manual transaction verification"?
+**How to use "manual transaction verification"?**
 You have 3 csv files. The creditcard.csv file contains all transactions. In the other two files, transactions are divided into fraudulent and legal ones.
 
 Open any csv file
