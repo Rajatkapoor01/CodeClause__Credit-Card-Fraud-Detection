@@ -15,6 +15,15 @@ Streamlit
 Dataset
 The project uses a free set of data from free access, which includes a collection of credit card transactions, both legitimate and fraudulent. The data set serves as the basis for training and evaluating the fraud detection model. We took the data set from the website kaggle.com. This site is an online resource and community for data science, machine learning and data research specialists.
 <br>
+
+**SCREEN SHORT**
+![ScreenShort 1](https://github.com/Rajatkapoor01/CodeClause__Credit-Card-Fraud-Detection/blob/main/SShort/SS1.png)
+![ScreenShort 2](https://github.com/Rajatkapoor01/CodeClause__Credit-Card-Fraud-Detection/blob/main/SShort/SS2.png)
+![ScreenShort 3](https://github.com/Rajatkapoor01/CodeClause__Credit-Card-Fraud-Detection/blob/main/SShort/SS3.png)
+![ScreenShort 4](https://github.com/Rajatkapoor01/CodeClause__Credit-Card-Fraud-Detection/blob/main/SShort/SS4.png)
+![ScreenShort 5](https://github.com/Rajatkapoor01/CodeClause__Credit-Card-Fraud-Detection/blob/main/SShort/SS5.png)
+![ScreenShort 6](https://github.com/Rajatkapoor01/CodeClause__Credit-Card-Fraud-Detection/blob/main/SShort/SS6.png)
+
 **How to run**
 Download project
 
